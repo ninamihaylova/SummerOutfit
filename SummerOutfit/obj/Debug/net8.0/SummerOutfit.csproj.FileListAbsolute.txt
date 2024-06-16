@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\bin\Debug\net8.0\SummerOutfit.exe
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\bin\Debug\net8.0\SummerOutfit.deps.json
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\bin\Debug\net8.0\SummerOutfit.runtimeconfig.json
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\bin\Debug\net8.0\SummerOutfit.dll
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\bin\Debug\net8.0\SummerOutfit.pdb
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\obj\Debug\net8.0\SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\obj\Debug\net8.0\SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\obj\Debug\net8.0\SummerOutfit.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\obj\Debug\net8.0\SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\obj\Debug\net8.0\SummerOutfit.dll
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\obj\Debug\net8.0\refint\SummerOutfit.dll
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\obj\Debug\net8.0\SummerOutfit.pdb
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\obj\Debug\net8.0\SummerOutfit.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\SummerOutfit\SummerOutfit\obj\Debug\net8.0\ref\SummerOutfit.dll
